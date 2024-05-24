@@ -17,7 +17,7 @@
 
               <div class="form-floating mb-2">
                 <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com" autofocus required>
-                <label for="email">Email address</label>
+                <label for="email">Email</label>
               </div>
               <div class="form-floating">
                 <input type="password" name="password" class="form-control" id="password" placeholder="Password" required>
